@@ -29,6 +29,7 @@ def find_greater_pair(src)
     else 
       array << m
     end
+  end
 end
 
 def total_even_pairs(src)
