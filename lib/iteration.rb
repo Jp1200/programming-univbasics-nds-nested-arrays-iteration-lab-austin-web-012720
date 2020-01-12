@@ -29,6 +29,7 @@ def find_greater_pair(src)
     else 
       array << m
     end
+    row_index += 1
   end
 end
 
